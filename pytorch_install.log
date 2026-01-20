@@ -1,0 +1,8 @@
+= 01-cuda-basics 02-ml-training 03-tensorrt-optimization 04-vision-llm-integration demos GET_STARTED.md INSTALL_FIX.md install_pytorch.sh install_pytorch_venv.sh QUICKSTART.md README.md setup_env.sh setup_venv.sh START_HERE.md test_image_download.py venv 60
+Installing PyTorch for Jetson Orin Nano
+= 01-cuda-basics 02-ml-training 03-tensorrt-optimization 04-vision-llm-integration demos GET_STARTED.md INSTALL_FIX.md install_pytorch.sh install_pytorch_venv.sh QUICKSTART.md README.md setup_env.sh setup_venv.sh START_HERE.md test_image_download.py venv 60
+Activating virtual environment...
+
+Checking system dependencies...
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required

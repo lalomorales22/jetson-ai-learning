@@ -1,0 +1,36 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Datasets
+02-ml-training/data/
+
+# Model files
+*.pth
+*.onnx
+*.trt
+*.engine
+
+# Compiled CUDA
+*.o
+01-cuda-basics/vector_add
+01-cuda-basics/image_grayscale
+
+# Test outputs
+*.jpg
+*.png
+!test_image.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
