@@ -1,4 +1,4 @@
-# Jetson AI Learning Project
+# NVIDIA Jetson Orin Nano AI Learning Project
 
 **A comprehensive learning path for CUDA, ML, and Edge AI on Jetson Orin Nano.**
 
